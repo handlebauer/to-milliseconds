@@ -1,0 +1,13 @@
+{
+  "name": "@hbauer/to-milliseconds",
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Convenience helper for working with milliseconds",
+  "main": "lib/index.js",
+  "repository": "https://github.com/handlebauer/to-milliseconds.git",
+  "author": "Donald Geddes <hi@donaldgeddes.ca>",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT"
+}
